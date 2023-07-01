@@ -1,16 +1,12 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: S. Lee
 ---
+I am currently pursuing a Doctor of Philosophy in Computer Engineering at Texas A&M University.
+My research interests are multifaceted and encompass cellular networks, the application of machine learning in wireless and mobile networks, 
+network security, data analysis for network optimization, and the Internet of Things (IoT).
 
-My name is Inigo Montoya. I have the following qualities:
+Texas A&M University에서 컴퓨터 공학 박사과정을 하고 있습니다. 5G/6G 표준, 네트워크 최적화, 네트워크 보안, IoT 시스템 등 무선 통신과 관련된 연구를 수행하고 있습니다.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+![Profile Picture](/assets/img/profile_long.jpg)
