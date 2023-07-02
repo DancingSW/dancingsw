@@ -24,9 +24,9 @@ navbar-links:
   Dance: "dance"
   TAMU CS Qual: "tamucsqual"
   Thoughts: "thoughts"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 
 ################
 # --- Logo --- #
