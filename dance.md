@@ -3,7 +3,7 @@ layout: page
 title: Dance
 subtitle: No dance no research!
 ---
-## After Qual Exam [Hiphop Flea Marcket 2023 July]
+## Hiphop Flea Marcket 2023 July [ 본선가서 뿌듯 ]
 [![Alt Text](https://img.youtube.com/vi/EfV9WsCmOsU/0.jpg)](https://www.youtube.com/shorts/EfV9WsCmOsU)
 [![Alt Text](https://img.youtube.com/vi/ewxAu-BMMPQ/0.jpg)](https://www.youtube.com/shorts/ewxAu-BMMPQ)
 [![Alt Text](https://img.youtube.com/vi/EoaNFYqqHfU/0.jpg)](https://youtube.com/shorts/EoaNFYqqHfU)
