@@ -5,6 +5,7 @@ subtitle: No dance no research!
 ---
 ## After Qual Exam [박사 자격증명 시험이 끝나고]
 잊지 못할 하루...!
+
 [![Alt Text](https://img.youtube.com/vi/JTRuVDTY4yc/0.jpg)](https://www.youtube.com/shorts/JTRuVDTY4yc)
 
 ## Hiphop Flea Marcket 2023 July [ 본선가서 뿌듯 ]
