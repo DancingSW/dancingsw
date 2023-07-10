@@ -2,7 +2,7 @@
 layout: post
 title: First post
 subtitle: I am starting blog!
-tags: [thougts]
+tags: [thoughts]
 comments: true
 ---
 This is my first post in the my first blog. I am not sure what I will post in the blog. For now, my intention is to share my dailies, dance video, and useful information related to computer science. I am excited!
