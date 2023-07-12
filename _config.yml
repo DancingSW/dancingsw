@@ -20,12 +20,12 @@ author: Sangwoo Lee
 ###############################################
 
 navbar-links:
-  About Me: "/_pages/aboutme"
+  About Me: "/pages/aboutme/"
   Computer Science/Engineering:
-    - TAMU CS Ph.D. Qual Exam: "/_pages/tamucsqual"
-    - 3GPP Standard Study: "/_pages/3GPP_standard"
-  Dance: "/_pages/dance" 
-  Thoughts: "/_pages/thoughts"
+    - TAMU CS Ph.D. Qual Exam: "/pages/tamucsqual/"
+    - 3GPP Standard Study: "/pages/3GPP_standard/"
+  Dance: "/pages/dance/" 
+  Thoughts: "/pages/thoughts/"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
